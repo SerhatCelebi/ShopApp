@@ -257,30 +257,4 @@ dotnet test Services/Catalog/MultiShop.Catalog.Tests
 
 Proje Docker ile containerize edilebilir. Her mikroservis için Dockerfile oluşturabilir ve docker-compose kullanabilirsiniz.
 
-## 🤝 Katkıda Bulunma
 
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Branch'e push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request açın
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
-## 📞 İletişim
-
-Proje ile ilgili sorularınız için issue açabilir veya iletişime geçebilirsiniz.
-
-## ⚡ Performans İpuçları
-
-- Redis cache'ini optimize edin
-- MongoDB indexlerini düzenli kontrol edin
-- API response'larını gzip ile sıkıştırın
-- Load balancer kullanımını değerlendirin
-
-## 🔄 Güncellemeler
-
-- Son güncellemeler için CHANGELOG dosyasına bakın
-- Yeni özellikler ve düzeltmeler için release notes'ları kontrol edin
